@@ -1,6 +1,6 @@
 # Mission
 
-The Open Data Institute will catalyse the evolution of open data culture to create economic, environmental, and social value. We will;
+The Open Data Institute catalyses the evolution of open data culture to create economic, environmental, and social value. It will;
 
 1. unlock supply and demand, and communicate this value to address local and global issues.
 1. convene, and collaborate with, world-class experts to incubate start-ups, train and mentor people, and nurture innovation.
