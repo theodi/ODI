@@ -7,14 +7,14 @@
 1. agree to adopt our basic Charter as your own
 1. agree to add and adapt the Charter to reflect country or region-specific needs
 1. affirm you are an independent entity with legal personality
-1 .agree to participate in catalysing open data culture
+1. agree to participate in catalysing open data culture
 1. shall aim to deliver economic, environmental, and social value
   
 ### LEVEL 1 MEMBERSHIP
  
 You will be listed in the ODI Global Network Registry as a Level 1 Node for a period of 3 months, or such other period as we may from time to time agree, to allow you to meet the minimum criteria for ODI Nodes. 
  
-You agree to use this development period to meet the requirements as set out in the ODI Network Membership Agreement, including with respect to your governance and compliance with ODI standards and any other targets we define.
+You agree to use this development period to meet the requirements as set out in the ODI Node Agreement, including with respect to your governance and compliance with ODI standards and any other targets we define.
  
 If we are satisfied at the end of this development period that you have achieved these targets, you may apply for Level 2 or Level 3 Membership.
  
