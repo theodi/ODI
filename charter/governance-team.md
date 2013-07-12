@@ -1,6 +1,6 @@
 [draft]
 
-# Open governance, team communication and support
+# Open governance and team support
 
 ## Corporate Governance 
 
