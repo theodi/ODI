@@ -1,5 +1,11 @@
 # ODI Node : Level 2 (pre-alpha draft)
 
+The parties
+
+1. _______________ ("you"); and,
+1. Open Data Institute, 65 Clifton Street, London, UK EC2A 4JE ("we", "us")
+
+hereby agree  
 
 ### DEFINITIONS
  
