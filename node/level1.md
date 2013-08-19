@@ -1,3 +1,7 @@
+To discuss/comment, please use this Google Doc
+
+https://docs.google.com/a/theodi.org/document/d/1VwEks-x1QWH5W3D6EiiSsQAEgKLis1i0AF0MNFDU48Q/edit#
+
 # ODI Node : Level 1 (pre-alpha draft)
 
 The parties
