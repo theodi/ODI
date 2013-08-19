@@ -2,6 +2,9 @@
 
 **NB: All documents here are pre-alpha**
 
+To discuss/comment, please use this Google Doc 
+
+https://docs.google.com/a/theodi.org/document/d/1m0MoYz2FDjEwKCW-RP9lAGDn1YBTTw1rSA1MI-TuklQ/edit
 
 Indicative framework
 
