@@ -6,7 +6,7 @@
 
 Purpose: ensure that the ODI is focussed on its vision, mission, and values
 
-Scope: mandatory for country-level Nodes. Other Node levels may opt for an Advisory Board instead of a formal Board.
+Scope: mandatory for country-level Nodes. Level 2 Nodes may opt for an Advisory Board instead of a formal Board. This is recommended, but optional, for entry level
 
 1. ODI will appoint and convene a Board 
 1. ODI will appoint and convene a Leadership Team
@@ -23,7 +23,7 @@ Scope: mandatory for country-level Nodes. Other Node levels may opt for an Advis
 
 Purpose: ensure everyone in the team is aware of what is happening
 
-Scope: mandatory for country-level Nodes. Highly recommened for other Node levels.
+Scope: mandatory for country-level Nodes. Strongly recommened, but optional, for other Node levels.
 
 1. daily standup with entire team every morning (10 minute) 
 1. weekly 30-60 minute management meeting
@@ -37,7 +37,7 @@ Scope: mandatory for country-level Nodes. Highly recommened for other Node level
 
 Purpose: track progress and communicate with everyone, internally and externally
 
-Scope: applies to all Node levels
+Scope: Applies to all Node levels. Applies only to work specifically related to ODI.
 
 1. use Trello (or equiv) to track tasks - open to whole team (see example)
 1. publish a ‘reasonably anonymised’ public dashboard of quarterly objectives (see example)
@@ -48,7 +48,7 @@ Scope: applies to all Node levels
 
 Purpose: build a cohesive team of experts that will help catalyse open data culture
 
-Scope: applies to all Node levels
+Scope: Applies to all Node levels. Applies only to work specifically related to ODI.
 
 1. clearly define roles and salaries
 1. advertise publically (example)
@@ -62,7 +62,7 @@ You will ensure that the total number of employed (payroll) staff appointed, emp
 
 Purpose: enabling sustainability. Being transparent.
 
-Scope: applies to all Node levels.
+Scope: Applies to all Node levels. Applies only to work specifically related to ODI.
 
 1. financial process (example)
 1. open procurement: https://github.com/theodi/ODI/blob/master/node/procurement.md
