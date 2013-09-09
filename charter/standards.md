@@ -1,6 +1,8 @@
 # Standards
 
-ODI shall adopt and utilise Open Standards and/or Open Source License (MIT, Apache, BSD, and **not** GPL) wherever possible and practical. Creative Commons "Attribution, Share-alike" is our default.
+ODI materials and assets are open by default.
+
+ODI shall adopt and utilise Open Standards and/or Open Source License (MIT, Apache, BSD, and **not** GPL) wherever possible and practical. Creative Commons "Attribution, Share-alike" is  default.
 
 Any data released by ODI shall use Open Data Certificates.
 
