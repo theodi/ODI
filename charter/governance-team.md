@@ -56,6 +56,8 @@ Scope: applies to all Node levels
 1. score against clear criteria (example)
 1. induct team members (see example)
 
+You will ensure that the total number of employed (payroll) staff appointed, employed or used by You does not exceed twenty [20] people. In the event that the total number does exceed 20, You agree to create or to catalyse a separate ODI node, in the interests of expanding the ODI Network. This figure does not include freelance or contracted individuals that may be used from time to time.
+
 ## Finance & Legal
 
 Purpose: enabling sustainability. Being transparent.
