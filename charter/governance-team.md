@@ -13,7 +13,7 @@ Scope: mandatory for country-level Nodes. Level 2 Nodes may opt for an Advisory 
 1. The Board and Leadership Team shall not be identical
 1. Appointments shall be advertised
 1. Diversity will be considered and documented in recruitment
-1. The Leadership Team will create a set of deliverables and metrics against which progress will 1. be tracked (see example 1)
+1. The Leadership Team will create a set of deliverables and metrics against which progress will be tracked (see example 1)
 1. The Board and Leadership Team shall assess the ODI’s performance on a quarterly rolling basis
 1. Deliverables will be assessed by the Board
 1. Board meetings shall be held monthly and minutes created
