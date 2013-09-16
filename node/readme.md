@@ -12,21 +12,22 @@ An ODI Node is an “instance” of the ODI in the ODI Network.
 
 There are 3 tiers of node.
 
-Level 1: Entry (1-page principles, mou-style, human readable, light)
+Level 1: Country lead (all of 2+)
 
-* Adoption of Charter
-* Free License to use brand / identify as ODI node
-* Listing on the ODI site as an official node
-* Agreement to targets to achieve in 3 months (e.g. systems, data flow, opening a data set, etc)
+* Assignment of country-lead status
+* Seat on lead node network governance board
+* Independent NGO
 
-Level 2: Standard (all of 1+ )
+Level 2: City/Region Node (all of 3+ )
 
 * Ability to have local paying members and funding
 * Ability to receive funding from ODI country lead node / global network
 * Tighter terms
 * Network fee (5-10%?)
 
-Level 3: Country lead (all of 2+)
+Level 3: Communications Node
 
-* Assignment of country-lead status
-* Seat on lead node network governance board
+* Adoption of Charter
+* Free License to use brand / identify as ODI node
+* Listing on the ODI site as an official node
+* Agreement to targets to achieve in 3 months (e.g. systems, data flow, opening a data set, etc)
