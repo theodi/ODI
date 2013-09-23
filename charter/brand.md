@@ -2,9 +2,9 @@
 
 **ODI brand guidelines**
 
-https://docs.google.com/a/theodi.org/file/d/0B9-9LmgVNitVbWV2ZUFZZTNhNkE/edit
+https://docs.google.com/a/theodi.org/file/d/0B4rriq9nxtslY1dfazhCNUFkMTQ/edit
 
-(NB: it's a PDF. We will be deploying as web pages soon)
+(NB: it's a PDF. We will be deploying as web pages soon. If you need to print the guide, here's a more [printer-friendly version](https://docs.google.com/a/theodi.org/file/d/0B4rriq9nxtslTUNKYkRpaldwUWc/edit?usp=sharing ).
 
 **Communications policy and guidelines**
 
