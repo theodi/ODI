@@ -1,6 +1,8 @@
 ODI
 ===
 
-Defining the ODI and how it can scale.
+Definition of the ODI Charter: to embody the nature of the organisation itself. 
 
-See http://theodi.org/blog/catalysing-open-data-culture-everyone-odi-nodes for more context
+Definition of ODI Nodes: to enable the organisation to scale internationally.
+
+http://theodi.org/nodes
