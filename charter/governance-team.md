@@ -6,7 +6,7 @@
 
 Purpose: ensure that the ODI is focussed on its vision, mission, and values
 
-Scope: mandatory for country-level Nodes. Level 2 Nodes may opt for an Advisory Board instead of a formal Board. This is recommended, but optional, for entry level
+Scope: mandatory for country-level Nodes. City/Region Nodes may opt for an Advisory Board instead of a formal Board. This is recommended, but optional, for Communications Nodes.
 
 1. ODI will appoint and convene a Board 
 1. ODI will appoint and convene a Leadership Team
@@ -41,7 +41,7 @@ Scope: Applies to all Node levels. Applies only to work specifically related to 
 
 1. use Trello (or equiv) to track tasks - open to whole team (see example)
 1. publish a ‘reasonably anonymised’ public dashboard of quarterly objectives (see example)
-1. publish a marco dashboard of overall progress (example: https://www.leftronic.com/share/8paPAd)
+1. publish a marco dashboard of overall progress (example: http://dashboards.theodi.org/)
 
 
 ## Building your team
