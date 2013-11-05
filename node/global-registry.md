@@ -2,7 +2,7 @@
 
 **Summary**
 
-ODI shall maintain and operate an open registry/list of all active ODI Node members at http://directory.theodi.org/. 
+ODI shall maintain and operate an open registry/list of all active ODI Node members at http://www.theodi.org/nodes. 
 
 For each Node, this shall include a minimum of:
 
