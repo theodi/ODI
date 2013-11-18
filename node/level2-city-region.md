@@ -26,7 +26,7 @@ on _________  ("Effective Date") hereby agree to
 
         1. **Vision**, **Mission** and **Values** as defined at [https://github.com/theodi/ODI/blob/master/charter/vision.md](https://github.com/theodi/ODI/blob/master/charter/vision.md) and [https://github.com/theodi/ODI/blob/master/charter/mission.md](https://github.com/theodi/ODI/blob/master/charter/mission.md)
 
-        2. **Brand** Guidelines as defined at [https://github.com/theodi/ODI/blob/master/charter/brand.md](https://github.com/theodi/ODI/blob/master/charter/brand.md)
+        2. **Brand** Guidelines as defined at [https://github.com/theodi/ODI/blob/master/charter/brand-communications.md](https://github.com/theodi/ODI/blob/master/charter/brand-communications.md)
 
         3. **Governance** as defined at [https://github.com/theodi/ODI/blob/master/charter/governance-team.md](https://github.com/theodi/ODI/blob/master/charter/governance-team.md) 
 
