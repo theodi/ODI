@@ -8,7 +8,7 @@ Our web platform has three parts to it:
 
 ## New Posts
 
-To create a new posts, you need to:
+To create a new post, you need to:
 
   1. Go to [Panopticon](http://panopticon.theodi.org/).
   2. Select [**Add artefact**](http://panopticon.theodi.org/artefacts/new) from the menu bar.
