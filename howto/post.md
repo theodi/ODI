@@ -14,7 +14,7 @@ To create a new post, you need to:
   2. Select [**Add artefact**](http://panopticon.theodi.org/artefacts/new) from the menu bar.
   3. Fill in the form. If you are creating a blog or news post, or a normal page, then you should select *Article* as the **Kind** of artefact. A new **Article category** field will then be displayed, allowing you to select the specific type of article.
   4. Click **Save and go to item**. This will take you to Publisher.
-  5. In Publisher you will see another form which enables you to fill in additional information, including the main body of the page.
+  5. In Publisher you will see another form which enables you to fill in additional information, including the main body of the page which will be written in [Markdown](http://daringfireball.net/projects/markdown/syntax).
   6. At any time, **Save** and then click the **Preview** button to see what the page will look like on the final site.
   7. When you are finished editing the document, choose someone to review what you've done in the **Assigned to** field and click the **2nd pair of eyes** button. If you want to, you can add some commentary for that person to see when they review your post.
   
