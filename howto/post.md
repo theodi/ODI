@@ -10,7 +10,7 @@ Our web platform has three parts to it:
 
 To create a new post, you need to:
 
-  1. Go to [Panopticon](http://panopticon.theodi.org/).
+  1. Go to [Panopticon](http://panopticon.theodi.org/) and log in (if you haven't already).
   2. Select [**Add artefact**](http://panopticon.theodi.org/artefacts/new) from the menu bar.
   3. Fill in the form. If you are creating a blog or news post, or a normal page, then you should select *Article* as the **Kind** of artefact. A new **Article category** field will then be displayed, allowing you to select the specific type of article.
   4. Click **Save and go to item**. This will take you to Publisher.
