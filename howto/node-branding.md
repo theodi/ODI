@@ -14,4 +14,4 @@ You can include an official ODI Node badge in your website by using the followin
 <script src="http://theodi.org/nodes/{node}/badge.js"></script>
 ```
 
-The node field in the path above is the one for your node page on http://theodi.org.
+The node field in the path above is the one for your node page at http://theodi.org/nodes.
