@@ -1,4 +1,4 @@
-# How To Use Bode Branding Materials
+# How To Use Node Branding Materials
 
 ## Logos
 
