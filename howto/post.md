@@ -41,3 +41,14 @@ To edit a post, you need to create a new edition for that post:
   2. Look at the [**Published**](http://publisher.theodi.org/admin?list=published) articles and use the **Filter** box to filter down to the item that you're looking for. You might have to make sure that *All* is selected on the **Filter by assignee** drop-down.
   3. Select **Create new edition of this publication**. This will take you to the normal edit page.
   4. Proceed as if editing a new post. Describe what changes you made when prompted for comments.
+
+  
+## Editing your profile
+
+To update your team profile:
+
+  1. Go to [Panopticon](http://panopticon.theodi.org/) and log in (if you haven't already).
+  2. Search for your name as an 'artefact'
+  3. Select **Create new edition of this publication**. This will take you to the normal edit page.
+  4. Update your profile.
+  5. Describe what changes you made when prompted for comments. (e.g. adding social media links)
