@@ -134,23 +134,23 @@ Defined terms used in this Agreement but not defined in this Agreement are as de
 
     1. Trademark - Primary Mark
 
-		![image alt text](http://www.theodi.org/assets/ODI-trademark-primary-mark.png)
+		![image alt text](http://www.static.theodi.org/assets/ODI-trademark-primary-mark.png)
 	
 	1. Related Marks
         1. Outline version of Primary Mark
 
-		![image alt text](http://www.theodi.org/assets/ODI-trademark-primary-mark-outline.png)
+		![image alt text](http://www.static.theodi.org/assets/ODI-trademark-primary-mark-outline.png)
 
 	1. ODI Certificate(s) - Group Marks
 
-		![image alt text](http://www.theodi.org/assets/ODI-trademark-certificate-raw.png)
-		![image alt text](http://www.theodi.org/assets/ODI-trademark-certificate-pilot.png)
-		![image alt text](http://www.theodi.org/assets/ODI-trademark-certificate-standard.png)
-		![image alt text](http://www.theodi.org/assets/ODI-trademark-certificate-expert.png)
+		![image alt text](http://www.static.theodi.org/assets/ODI-trademark-certificate-raw.png)
+		![image alt text](http://www.static.theodi.org/assets/ODI-trademark-certificate-pilot.png)
+		![image alt text](http://www.static.theodi.org/assets/ODI-trademark-certificate-standard.png)
+		![image alt text](http://www.static.theodi.org/assets/ODI-trademark-certificate-expert.png)
 
 	1. ODI Node - Sub-licensable Mark
 
-		![image alt text](http://www.theodi.org/assets/ODI-trademark-node.png)
+		![image alt text](http://www.static.theodi.org/assets/ODI-trademark-node.png)
 
 1. Full brand guidelines are defined at [https://github.com/theodi/ODI/blob/master/charter/brand-communications.md](https://github.com/theodi/ODI/blob/master/charter/brand-communications.md) 
 
