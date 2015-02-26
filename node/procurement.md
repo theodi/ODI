@@ -3,7 +3,7 @@
 1. Summary
 
    1. ODI operates open procurement and financial processes.
-   1. The Procurement Threshold is set at £1,000.
+   1. The Procurement Threshold is set at £5,000.
 
 1. Procurement principles
 
