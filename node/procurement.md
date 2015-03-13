@@ -26,10 +26,10 @@
 
    1. Sign-off on all spending under or above the Procurement Threshold requires the sign-off of either:
  
-		1. The CEO and the Financial Controller; 
-		1. The Chairman and the Financial Controller;
+		1. The CEO and the Director of Finance and Compliance; 
+		1. The Chairman and the Director of Finance and Compliance;
 		1. The CEO and one member of the Senior Management team; or
-		1. Two members of the Senior Management team and the Financial Controller
+		1. One member of the Senior Management team and the Director of Finance and Compliance
 
 1. Open data principles
 
