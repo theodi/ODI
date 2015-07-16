@@ -51,7 +51,7 @@ collectively ‘the parties’ and each a ‘party’. The parties agree the fol
 
 		1. Policies:			means the policies listed herein as in force from time to time.
 
-		1. Net Income:			means the total income received before domestic sales taxes are applied and before costs are deducted.
+		1. Net Income:			means the total income received before sales taxes are applied and before costs are deducted.
 	
 		1. Term:				means the term of this agreement as defined herein.
 	
