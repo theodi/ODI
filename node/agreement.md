@@ -1,236 +1,224 @@
-![image alt text](http://static.theodi.org/assets/ODI-trademark-node.png)
+**Version: January 2016**
 
-This Agreement is made on _____________ (the “Effective Date”) between:
+General comment is that there is still quite a bit of work to do on this doc.  I am not happy with it as is, we need to tidy up what ODI’s intentions are and then push across for legal review again. I am also not happy with the legal review it has been through.  I have checked it but not in any great detail – spent about an hour on it.  I would suggest next steps are LB/GS/AP meet to discuss this is more detail to ensure we are aligned. Then we can push for legal review.
 
-1. [ORGANISATION NAME], a company registered in [TERRITORY], with company number [NUMBER], whose registered address is ____________________________________________________________ ("you, “Node"), and
+This Agreement is made on _____________ (the "Effective Date") between:
 
-1. Open Data Institute, a limited company registered in England with company number 8030289 and registered address at 65 Clifton Street, London, EC2A 4JE, United Kingdom ("we", “us”, “ODI”, “ODI HQ”),
+1. [ORGANISATION NAME], a company registered in [TERRITORY], with company number [NUMBER], whose registered address is [ORGANISATION ADDRESS] ("you", or "Node"), and
+
+2. Open Data Institute, a limited company registered in England with company number 8030289 and registered address at 65 Clifton Street, London, EC2A 4JE, United Kingdom ("We", "Us", “Our”) “ODI”, “ODI HQ”),
 
 collectively ‘the parties’ and each a ‘party’. The parties agree the following:
 
-1. **Common Purpose**
+1. Common Purpose 
 
-	1. Both parties shall work in good faith to promote and implement the ODI Charter, which embodies the values of the ODI and practical implementation of open data that demonstrate economic, environmental and social value.
+### Both parties shall work in good faith to promote and implement the ODI Charter, which embodies the values of the ODI and practical implementation of open data that demonstrate economic, environmental and social value.
 
-1. **Definitions & Interpretation**
+2. Definitions 
 
-	1. The following definitions apply to this agreement. 
-	
-		1. Contact:				means the Node Contact or the ODI Contact as applicable.
+## The following definitions apply to this agreement. 
 
-		1. Node Contact:			means the person detailed in Schedule 1 or as otherwise notified by you from time to time.
-
-		1. Membership Fee:			means the annual membership fee payable by you to us as detailed in the Schedule.
-
-		1. Minimum Hours:			means the number of hours detailed in Schedule 1. 
-
-		1. ODI Activities:			means the activities detailed herein.
-
-		1. ODI Brand Guidelines:	means the [brand policy] (https://github.com/theodi/ODI/blob/master/charter/brand-communications.md)  
-
-		1. ODI Charter:			means the [vision](https://github.com/theodi/ODI/blob/master/charter/vision.md), [mission and values](https://github.com/theodi/ODI/blob/master/charter/mission.md)
-
-		1. ODI Global Registry:		means the publicly available information contained in the [registry](https://github.com/theodi/ODI/blob/master/node/global-registry.md)  
-
-		1. ODI Governance:			means the policy at: https://github.com/theodi/ODI/blob/master/charter/governance-team.md 
-
-
-		1. ODI Metrics:			means the metrics mutually agreed by the parties in writing from time to time.
-
-		1. ODI Contact:			means the person detailed in Schedule 1 or as otherwise notified by us from time to time.
-
-		1. ODI Node Network:		means the ODI and all nodes within the network from time to time.
-
-		1. ODI Programmes:			means the ODI [programmes of work](https://github.com/theodi/ODI/blob/master/charter/programmes.md) 
-
-		1. ODI Node Products:		means the [products](https://github.com/theodi/ODI/blob/master/node/products.md) which nodes are permitted to franchise as described at   
-
-		1. ODI Trademark License:	means the [licence agreement](https://github.com/theodi/ODI/blob/master/node/trademark-licence.md) as set out at the date of this Agreement and as updated annually on 1st January each year of the Term
-
-		1. Node Name:			means the mutually agreed name of your node (e.g. “ODI Paris”)
-
-		1. Policies:			means the policies listed herein as in force from time to time.
-
-		1. Net Income:			means the total income received before sales taxes are applied and before costs are deducted.
-	
-		1. Term:				means the term of this agreement as defined herein.
 	
 
-	1. In the event of any conflict or inconsistency between this agreement and any referenced document, the terms of the ODI Trademark License shall prevail, followed by the terms of the main body of this agreement, over the terms of all other Policies and referenced documents.
+**Node Contact:**	means the person detailed in Schedule 1 or as otherwise 			notified by you from time to time.
 
-1. **You;**
+**Node Fee:**	means the base administrative annual Node fee payable by you to us as detailed in Schedule 1.
 
-	1. agree to adopt and materially comply with the ODI Charter and Policies throughout the Term;
+**ODI Global Registry:**	means the publicly available information contained in the 			registry at [https://github.com/theodi/ODI/blob/master/node/global-registry.md](https://github.com/theodi/ODI/blob/master/node/global-registry.md) 
 
-	1. agree to operate with a high standard of skill and care and in accordance with high standards of ethics;
+**ODI ****Node ****Metrics:**	means the metrics mutually agreed by the parties in writing from time to time, detailed in schedule 1.
 
-	1. agree to provide us with such information as we may reasonably require from time to time in relation to your operations and activities;
+**ODI Contact:**	means the person detailed in Schedule 1 or as otherwise notified by us from time to time.
 
-	1. agree to inform us immediately in the event that you experience any change of control, or any event which risks bringing us or the ODI Node Network into disrepute;
+**ODI Node Network:**	means the ODI and all nodes ("Nodes") within the network from time to time.
 
-	1. agree to undertake and complete the Minimum Hours of work per month to pursue activities under this agreement;
+**ODI Node Products:**	means the products at [https://github.com/theodi/ODI/blob/master/node/products.md](https://github.com/theodi/ODI/blob/master/node/products.md) which Nodes are permitted to franchise
 
-	1. agree to adopt and promote the use of ODI Certificates in relation to open data;
+**ODI Trademark Licence:** means the licence agreement at 
 
-	1. agree to name a Node Contact within your organisation to manage and represent you as an ODI Node, and keep this information up-to-date; 
+[https://github.com/theodi/ODI/blob/master/node/trademark-licence.md](https://github.com/theodi/ODI/blob/master/node/trademark-licence.md)  in force at the Effective Date which shall be updated annually on 1st January.. 
 
-	1. agree to participate in catalysing open data culture, including publishing activities and outputs as ‘open by default’;
+**Node Name:**	means the name of your node as agreed between the Parties.
 
-	1. agree to engage in joint communications that work to positively reinforce the value of open data, the ODI, and the interests of developing an effective international ODI Node Network;
+**Policies:**	means the policies listed in this Agreement as in force from time to time.
 
-	1. agree to substantively observe all material laws and regulations which apply to you; 
+**Node Net Income:**	means the total income received before sales taxes are applied and before costs are deducted
 
-	1. warrant and represent that you are an entity with independent legal personality and are registered as such in your jurisdiction and will provide us with any evidence we may reasonably require to evidence your legal status; 
+	
 
-	1. agree to use the ODI branding in relation to all Node Activities; and
+In the event of any conflict or inconsistency between this agreement and any referenced document, the terms of the ODI Trademark Licence shall prevail, followed by the terms of the main body of this agreement, followed by Schedule 1, followed by the terms of all other Policies and referenced documents.
 
-	1. agree to use reasonable efforts in achieving the ODI Metrics.
+**3. Node vs non-Node activities**
 
-1. **We;**
+For the avoidance of doubt, all clauses in this agreement pertain to work received and/or undertaken by you in the operation of the Node and is not applicable to any other part of your non-Node business activities. Any and all representations of such activities shall be clearly communicated to avoid any confusion between Node and non-Node activities.
 
-	1. will list you in the ODI Global Registry within 14 days of this agreement; and
+## 4. You shall: 
 
-	1. will provide you with an ODI Contact, who will represent ODI and assist you in accordance with the terms of this agreement.
+    1. adopt and materially comply with the ODI Charter and Policies throughout the Term of this Agreement ;
 
-1. **Scope of products and activities** 
+    2. operate with a high standard of skill and care and in accordance with high standards of ethics;
 
-	1. We permit the franchise of ODI Node Products, which include ODI Learning and ODI Membership. Subject to mutual agreement in writing, you may choose to operate either one or both in your Node. 
+    3. provide us with such information as we may reasonably require from time to time in relation to your operations and activities;
 
-	1. Without explicit written approval in advance, we do not permit the franchise of any activities or other ODI Products including, but not limited to, Partner Members, Supporter Members, Services, Startup Programme, Summit (and related events), Research and Development, or other related projects. 
+    4. inform us immediately in the event that you experience any change of control, or any event which risks bringing us or the ODI Node Network into disrepute;
 
-	1. You may be eligible to be contracted by, or to receive funding from, the ODI although there is no guarantee or commitment on our part that you will receive any such funding.
+    5. Provide details of a Node Contact within your organisation to manage and represent you as a Node, and keep this information up-to-date; 
 
-	1. You are permitted to use ODI branding in accordance with the terms of this agreement.
+    6. participate in catalysing open data culture, including publishing activities and outputs as ‘open by default’;
 
-	1. You are entitled to use the ODI Node mark in accordance with the conditions of the ODI Trademark Licence. For the avoidance of doubt, you may present your organisation as the Node Name and/or as a “Learning Node” or “Network Node” as may be appropriate to promote your work. 
+    7. engage in joint communications that work to positively reinforce the value of open data, the ODI and the interests of developing an effective Node and international ODI Node Network, including explicit targets as appended; 
 
-1. **Fees**
+    8. adopt, and update with relevant content, your ODI Node website within 14 days of this agreement, and maintain it with up-to-date content; 
 
-	1. We will charge you fees for trading as an ODI Node. Fees are comprised of both an base annual administration fee and a percentage of sales (ie. Net income). 
+    9. adopt the email address assigned to your Node;
 
-	1. Base annual administration fees scale based on the size of organisation: 
+    10. substantively observe all material laws and regulations which apply to you; 
 
-		1. organisations under 250 people: £1,000 per annum
+    11. use the ODI Node branding in relation to all Node activities;
 
-		1. organisations over 250 people: £5,000 per annum
+    12. use reasonable efforts in achieving the ODI Node Metrics;
 
-	1. Percentage of sales
+    13. report monthly figures against the ODI Node Metrics; and,  
 
-		1. Learning Node – all income: 10% on your Node Net Income
+    14. warrant and represent that you are an entity with independent legal personality and are registered as such in your jurisdiction and will provide us with any evidence we may reasonably require to evidence your legal status. 
 
-		1. Network Node – Individual Supporter Membership: we will pay you, as a service fee, 50% of the first year of individual membership sales that are made using your Node affiliate code via the ODI payment site. For renewals of the same individual on subsequent years (which are automatic) this will reduce to 10%.
+**5. We will:**
 
-		1. Network Node – all other income: 10% on your Node Net Income
+    1. list you in the ODI Global Registry within 14 days of this agreement or whenever your Node website is updated, whichever is the latter; 
 
-1. **Payment terms**
+    2. provide you with an ODI Contact, who will represent ODI and assist you in accordance with the terms of this agreement;
 
-	1. As part of your ODI Metrics, on a quarterly basis you shall report all Net Income derived from Learning and any non-membership Network income (e.g. Sponsorship), and the amount you expect us to invoice you for.
+    3. provide you with an ODI Node website service, to present and market your ODI Node activities and products; and;
 
-	1. As part of our disclosure to you, on a quarterly basis we shall report all Net Income on individual membership subscriptions sales that can be attributed to you, and the amount we expect you to invoice us for.
+    4. provide you with email address(es) for your Node.
 
-	1. Each party shall raise an invoice for the reported amount to the other.
+**6. Scope of products and activities**
 
-	1. Each party shall pay invoices within 28 days of submission. Late payment may result in a financial penalty, suspension and/or termination of this agreement.
+    1. We permit the franchise of ODI Node Products, which include ODI Pioneer, ODI Learning, ODI Community and ODI Story (as defined therein). Subject to mutual agreement in writing, you may choose to operate either one or more in your Node.
 
-	1. ODI reserves the right to audit Node accounts.
+    2. Without express  written approval in advance, we do not permit the franchise of any activities or other ODI Products or services including, but not limited to, Partner Members, Corporate/SME Members, Supporter Members, Consultancy, Startup Programme, Summit (and related events), Research and Development, or other related projects (as defined by us from time to time in our documentation and policies). For the avoidance of doubt, if you provide ODI Products or services outside the scope of this agreement which have not been agreed in advance, your Node status will be immediately suspended and remain so until both parties reach resolution. This includes the provision of activities outside of the scope explicitly defined in your Node Product summary.
 
-1. **Term **
+    3. You are permitted to use ODI branding in accordance with the terms of this agreement.
 
-	1. This agreement shall commence on the Effective Date of this agreement and continue, unless terminated, until the next December 31st. 
+    4. You are entitled to use the ODI Node mark in accordance with the conditions of the ODI Trademark Licence. For the avoidance of doubt, you may present your organisation as the Node Name and/or as a "Pioneer Node", “Learning Node”, “Community Node” or “Story Node” as stated in this Agreement. 
 
-	1. Upon the expiry, but not termination, on December 31st, this agreement shall automatically renew for a period of one year at a time on a rolling basis unless and until terminated by either party.
+**7. Fees**
 
-	1. Within three months of the Effective Date you agree to work towards meeting the requirements as set out in this Agreement, including with respect to your compliance with the ODI Charter and other targets that we mutually define and agree including, but not limited to, the reporting of ODI Metrics.
+    1. We will charge you fees for trading as an ODI Node. Our fees are comprised of both the Node Fee and a percentage of the Node Net Income.  The Node Fee is calculated based on the franchise type and the highest value product delivered by your Node, as follows:
 
-	1. You may propose changes in the terms of this agreement or the way we collaborate directly to us, as we develop the relationship.
+        1. Pioneer Node: £1,200 per annum
 
-	1. On three month rolling basis, the parties will discuss the effectiveness of the collaboration, what can be improved, how it can be improved, whether there are any necessary remedial actions to take and agree the best way to proceed ("the Review").
+        2. Learning Node: £1,200 per annum
 
-1. **Termination**
+        3. Community Node: £200 per annum
 
-	1. Either party may terminate this Agreement by not less than three months’ written notice to the other party.
+        4. Story Node: Nil 
 
-	1. We may terminate this agreement on one month’s notice if we are of the opinion that you have not managed to materially meet the agreed Commitments.
+    2. Node Net Income shall be calculated as follows: 
 
-	1. At our sole discretion, we may terminate this agreement if you fail to meet any of the Metrics.
+        5. Pioneer Node - all Node income: Node Net income must be >£50,000 per annum. 10% will be charged on all Node Net Income. 
 
-	1. At our sole discretion, we may immediately terminate this agreement in the event that we believe you have materially breached one or more substantive terms of this agreement or if your continued membership is detrimental to the ODI Node Network and/or its community.
+        6. Learning Node – all Node income: 10% on your Node Net Income. Node Net income must be >£10,000 per annum.  
 
-	1. **Upon Termination:**
+        7. Community Node – all Node income: 10% on your Node Net Income. No minimum income required per annum. 
 
-		1. all provisions of this Agreement are terminated, although this does not affect any accrued rights or obligations up until the date of termination, including, but not limited to:
+        8. Story Node – all Node income: 20% on your Node Net Income. No minimum income required per annum. 
 
-		1. you will cease to be a member of the ODI Node Network;
+**8. Payment terms**
 
-		1. you will be removed from the ODI Global Registry; and
+    1. As part of your ODI Node Metrics, within five working days of the end of each month, you shall report all recognised Node Net Income. We shall raise an invoice for the reported amount to you, on a quarterly basis.  
 
-		1. you will cease to have the right to use our name or trademarks, in accordance with the terms of ODI Trade Mark Licence.
+    2. You shall pay invoices within 28 days of submission. Late payment may result in a financial penalty under the Late Payment of Commercial Debts (Interest) Act 1998, suspension and/or termination of this agreement.
 
-		1. you will cease to have the right to sell, market or deliver ODI branded products
+    3. ODI reserves the right to audit Node accounts. For the avoidance of doubt, this is not applicable to any other part of your non-Node business activities unless we have a reasonable belief that you have withheld sales information. Failure to agree to such audit will lead to the immediate suspension of your Node status and may result in us terminating this agreement.
 
-1. **Suspension**
+**9. Term**
 
-	1. As an alternative to termination or in the event of a dispute in accordance with clauses herein, at our sole discretion, we may suspend the Benefits whilst an investigation is conducted and the dispute is resolved.
+    1. This agreement shall commence on the Effective Date and continue, unless terminated, until midnight the next December 31st of that calendar year 
 
-1. **Node vs non-Node activities**
+    2. Upon the expiry of the Term, but not termination of this agreement, at midnight on December 31st, this agreement shall automatically renew for a period of one year and continue on a rolling basis unless and until terminated by either party.
 
-	1. For the avoidance of doubt, all clauses in this agreement pertain to work undertaken by you in the operation of the Node and is not applicable to any other part of your non-Node business activities. Any and all representations of such activities shall be clearly communicated to avoid any confusion between Node and non-Node activities.
+    3. As of the Effective Date you shall work towards meeting the requirements as set out in this agreement, including but not limited to your compliance with the ODI Charter and other targets that we defined and have agreed with you, including, but not limited to, the reporting of ODI Node Metrics.
 
-1. **Policies**
+    4. You may propose changes to the terms of this agreement or the way we collaborate, as we develop the relationship. These will be considered in the annual node review process.
 
-	1. The following are Policies under this agreement:
+    5. The parties will discuss the effectiveness of the collaboration, what can be improved, how it can be improved, whether there are any necessary remedial actions to take and agree the best way to proceed ("the Review"). For Pioneer and Learning Nodes, the Review shall be held bi-annually and for Community and Story Nodes, the Review shall be held annually. The timing of Reviews will be aligned with our annual review process for the whole network. 
 
-	1. ODI Brand Guidelines;
-https://github.com/theodi/ODI/blob/master/charter/brand-communications.md
+**10. Termination**
 
-	1. ODI Services policy;
-https://github.com/theodi/ODI/blob/master/charter/services.md
+    1. Either party may terminate this Agreement with or without cause by giving a minimum of three months’ written notice to the other party.
 
-	1. ODI Standards policy; 
-https://github.com/theodi/ODI/blob/master/charter/standards.md
+    2. We may terminate this agreement on one month’s written notice if we are of the opinion that you have not managed to materially meet your ODI Node Metrics. 
 
-	1. ODI Programmes policy; and
-https://github.com/theodi/ODI/blob/master/charter/programmes.md
+    3. At our sole discretion, we may immediately terminate this agreement in the event that we believe you have materially breached one or more substantive terms of this agreement or if your continued membership is detrimental to the ODI Node Network and/or its community.
 
-	1. ODI Node Products policy.
-https://github.com/theodi/ODI/blob/master/node/products.md
+    4. Upon termination of this agreement,all provisions shall terminate, except those which by implication survive termination In particular:
 
-	1. ODI Governance policy: https://github.com/theodi/ODI/blob/master/charter/governance-team.md 
+        1. You will cease to be a member of the ODI Node Network;
 
-	1. The Policies will be re-confirmed and/or updated by us on 1st January each year of the Term and may be updated by reasonable notice in writing at other times at our discretion in the interests of developing an effective international ODI Node Network.
+        2. You will be removed from the ODI Global Registry; and
 
-1. **Disputes**
+        3. You will cease to have the right to use our name or trademarks, in accordance with the terms of ODI Trademark Licence.
 
-	1. In the event of a dispute between the parties arising out of or in connection with this Agreement, the parties will attempt to resolve it by negotiation.
+        4. You will cease to have the right to sell, market or deliver ODI branded products
 
-	1. If a dispute is not settled by negotiation within 21 days of a notice of dissatisfaction by either party, either party may, by giving the other notice in writing, refer the dispute to the Centre for Effective Dispute Resolution ("CEDR") for mediation in accordance with CEDR’s model mediation procedure.
+**11. Suspension**
 
-	1. The commencement of mediation will not prevent the parties commencing or continuing court proceedings.
+    1. As an alternative to termination or in the event of a dispute in accordance with clauses in this agreement, at our sole discretion, we may suspend the benefits of membership and your Node status whilst an investigation is conducted and the dispute is resolved.
 
-1. **Limitation**
+**12. Policies**
 
-	1. The ODI limits its liabilities under this agreement to repayment of the current year’s Membership Fee, except in respect of death, personal injury, fraud and fraudulent misrepresentation.
+    1. The following are Policies under this agreement:
 
-1. **Boilerplate**
+        1. ODI Brand Guidelines; [https://github.com/theodi/ODI/blob/master/charter/brand-communications.md](https://github.com/theodi/ODI/blob/master/charter/brand-communications.md)
 
-	1. This agreement replaces any previous agreement between you and us relating to the operation as a Node and constitutes the entire agreement between the parties. Each party acknowledges that, in entering into this agreement, it has not relied on, and shall have no right or remedy in respect of, any statement, representation, assurance or warranty (whether made negligently or innocently) other than as expressly set out in this Agreement, unless made fraudulently.
+        2. ODI Services policy; [https://github.com/theodi/ODI/blob/master/charter/services.md](https://github.com/theodi/ODI/blob/master/charter/services.md)
 
-	1. This agreement shall only be varied by way of a signed written agreement by both parties.
+        3. ODI Standards policy; [https://github.com/theodi/ODI/blob/master/charter/standards.md](https://github.com/theodi/ODI/blob/master/charter/standards.md)
 
-	1. Any notice served by either party under this agreement will be served by e-mail to the current e-mail address of the other Contact and shall be deemed to have been received within 24 hours of being sent.
+        4. ODI Programmes policy; [https://github.com/theodi/ODI/blob/master/charter/programmes.md](https://github.com/theodi/ODI/blob/master/charter/programmes.md)
 
-	1. You agree to maintain a separate corporate identity to us and you agree not to describe your organisation as a partner, joint venturer, agent or representative of ODI or to pledge our credit or to bind us in any way. Both parties acknowledge that they will not hold themselves out as an agent, partner or co-venturer of the other and that this agreement is not intended and does not create any agency, partnership, joint venture or any other type of relationship except the contract relationship established hereby.
+        5. ODI Node Products policy; and [https://github.com/theodi/ODI/blob/master/node/products.md](http:///h) 
 
-	1. You acknowledge that damages are not the only sufficient remedy for breach of this agreement by you and that we reserve the right to seek an injunction against you for breach of the terms of this agreement, including the terms of the ODI Trademark License.
+        6. ODI Governance policy: [https://github.com/theodi/ODI/blob/master/charter/governance-team.md](https://github.com/theodi/ODI/blob/master/charter/governance-team.md)  
 
-	1. This Agreement is personal as between the parties and shall not be transferred, assigned, sub-contracted, or charged, directly or indirectly, all or in part, by either party without the prior written consent of the other party.
+    2. We intend to re-confirm and/or update the Policies annually on 1st January. We may update the Policies by reasonable notice in writing at other times at our discretion in the interests of developing an effective international ODI Node Network.
 
-	1. Nothing in this agreement shall confer any enforceable right or benefit upon any third party.
+**13. Disputes**
 
-	1. This Agreement is legally binding and is governed by the laws and statutes of England and Wales. You and we both agree that the courts of England and Wales will have exclusive jurisdiction over any dispute between the parties arising out of or in connection with this Agreement.
+    1. In the event of a dispute between the parties arising out of or in connection with this agreement, the parties will first attempt to resolve such dispute  by negotiation.
 
+    2. If a dispute is not settled by negotiation within 21 days of a notice of dissatisfaction sent by either party, either party may, by written notice to the other party, refer the dispute to the Centre for Effective Dispute Resolution ("CEDR") for mediation in accordance with CEDR’s model mediation procedure.
 
-Signed:	
+    3. The commencement of mediation will not prevent the parties commencing or continuing court proceedings.
+
+**14. Limitation of Liability**
+
+    1. The ODI limits its liabilities under this agreement to the repayment of your Node Fee in the calendar year in which the agreement comes to an end, whether by termination or otherwise, including for non-contractual disputes or claims, except in respect of death, personal injury, fraud and fraudulent misrepresentation.
+
+**15. General terms**
+
+    1. This agreement replaces any previous agreement between you and us relating to the operation as a Node and constitutes the entire agreement between the parties. Each party acknowledges that, in entering into this agreement, it has not relied on, and shall have no right or remedy in respect of, any statement, representation, assurance or warranty (whether made negligently or innocently) other than as expressly set out in this Agreement, unless made fraudulently.
+
+    2. This agreement shall only be varied by way of a signed written agreement by both parties.
+
+    3. Any notice served by either party under this agreement will be served by e-mail to the current e-mail address of the other party’s contact (as specified in Schedule 1) and shall be deemed to have been received within 24 hours of being sent.
+
+    4. You agree to maintain a separate corporate identity to us and you agree not to describe your organisation as a partner, joint venturer, agent or representative of ODI or to pledge our credit or to bind us in any way. Both parties acknowledge that they will not hold themselves out as an agent, partner or co-venturer of the other and that this agreement is not intended and does not create any agency, partnership, joint venture or any other type of relationship except the contract relationship established hereby.
+
+    5. Failure by either party to enforce any provisions of, or exercise any rights under, this agreement will not be deemed a waiver of future enforcement of that or any other provision.
+
+    6. If any one or more provisions of this agreement are, for any reason, held to be invalid, illegal, or unenforceable, that provision(s) will be limited or eliminated to the minimum extent necessary so that the remaining provisions of this agreement will remain valid and of full force.
+
+    7. You acknowledge that damages are not the only sufficient remedy for breach of this agreement by you, and we reserve the right to seek an injunction against you for breach of the terms of this agreement, including the terms of the ODI Trademark License.
+
+    8. This agreement is made between the parties and shall not be transferred, assigned, subcontracted, or charged, directly or indirectly, all or in part, by either party without the prior written consent of the other party.
+
+    9. Nothing in this agreement shall confer any enforceable right or benefit upon any third party.
+
+    10. This Agreement is legally binding and is governed by the laws of England and Wales. You and we both agree that the courts of England and Wales will have exclusive jurisdiction over any dispute between the parties arising out of or in connection with this Agreement, save that we reserve the right to seek injunctive relief in any relevant jurisdiction.
+
+**Signed:	**
 
 _____________________________________
 
@@ -242,7 +230,7 @@ for and on behalf of:	[Organisation]
 
 On:	[date of (first) execution]
 
-Signed:	
+**Signed:	**
 
 _____________________________________
 
@@ -253,23 +241,50 @@ Position: Chief Executive Officer
 for and on behalf of:	Open Data Institute	
 
 On: [date of (last) execution]
- 
 
-1. **Schedule 1**
+# Schedule 1
 
-Minimum Hours:			[INSERT NUMBER OF HOURS]
-Node Membership Fee:	[£Amount in numbers] ([Amount in words)].
+**Node Type:			         **[DELETE AS APPLICABLE - Pioneer/ 
 
-Node Contact:
-	Name: 
+         Learning/ Community/ Story]
+
+**ODI Node Metrics:**	  [Add] 
+
+**Node Fee:**	[£Amount in numbers] ([Amount in words)].
+
+**Node website: **[e.g leeds.theodi.org]
+
+**Node email:** [e.g leeds@theodi.org]
+
+**Node Contact/s **
+
+**Lead person:	**
+
+            Name:	
+
 	Position:	 
-	Phone (inc Int Dial): 
-	Email: 
 
-ODI Contact:	
-Name:	
-	Position:	 
 	Phone (inc Int Dial):	 
+
 	Email: 
 
-ODI Metrics:	[Agreed Metrics URL to be inserted]
+**Additional team members: **[ADD FURTHER CONTACTS IF REQUIRED]
+
+	Name: 
+
+	Position:	 
+
+	Phone (inc Int Dial): 
+
+	Email: 
+
+**ODI Contact:	**
+
+            Name:	
+
+	Position:	 
+
+	Phone (inc Int Dial):	 
+
+	Email: 
+
