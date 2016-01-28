@@ -4,4 +4,4 @@ Please see http://www.theodi.org/nodes for more details
 
 Nodes, please see the Node Guide here (Google Doc, open to comments)
 
-https://docs.google.com/a/theodi.org/document/d/1IwVRk3cBbRiOeUuydoaRYE28AlR2d_v7jnu9COghJjg/edit
+https://docs.google.com/document/d/1Jnak9oVd2OBhGsBcL6cIl5yx70WNm1gLx5FAm0Sveoc/edit#
