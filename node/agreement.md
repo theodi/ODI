@@ -249,7 +249,7 @@ On: [date of (last) execution]
 
          Learning/ Community/ Story]
 
-**ODI Node Metrics:**	  [to add URL]
+**ODI Node Metrics:**	  [https://docs.google.com/spreadsheets/d/1Y4i5b2XKUeJGykL22X2nzlt2TqDuz3v4zlAZB0FvqXo/edit#gid=1648865150](https://docs.google.com/spreadsheets/d/1Y4i5b2XKUeJGykL22X2nzlt2TqDuz3v4zlAZB0FvqXo/edit#gid=1648865150)
 
 **Node Fee:**	[£Amount in numbers] ([Amount in words)].
 
